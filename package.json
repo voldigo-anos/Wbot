@@ -15,7 +15,7 @@
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^v7.0.0-rc.9",
     "axios": "^1.8.4",
-    "better-sqlite3": "^12.6.2",
+    "better-sqlite3": "^11.3.0",
     "canvas": "^3.0.0-rc2",
     "dotenv": "^16.4.5",
     "form-data": "^4.0.1",
@@ -28,6 +28,6 @@
     "yt-search": "^2.12.1"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": "20.x"
   }
 }
